@@ -1,2 +1,2 @@
-the reository will be pushed , cuurently facing technical difficulties
+the reository will be pushed , curently facing technical difficulties
 
