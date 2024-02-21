@@ -191,20 +191,6 @@ class SecondScreen extends StatelessWidget {
 }
 
 
-// class SecondScreen extends StatelessWidget {
-//   @override
-//   Widget build(BuildContext context) {
-//     return Container(
-//       color: Colors.green,
-//       child: Center(
-//         child: Text(
-//           'Screen 2',
-//           style: TextStyle(fontSize: 24, color: Colors.white),
-//         ),
-//       ),
-//     );
-//   }
-// }
 
 
  // Import the FourthScreen class
@@ -247,28 +233,3 @@ class ThirdScreen extends StatelessWidget {
     );
   }
 }
-// class ThirdScreen extends StatelessWidget {
-//   @override
-//   Widget build(BuildContext context) {
-//     return Container(
-//       color: Colors.red,
-//       child: Center(
-//         child: Column(
-//           mainAxisAlignment: MainAxisAlignment.center,
-//           children: [
-//             Text(
-//               'your_image_path_here.png', // Replace with the path to your image
-//               // width: 100, // Adjust the width of the image as needed
-//               // height: 100, // Adjust the height of the image as needed
-//             ),
-//             SizedBox(height: 10), // Add spacing between the image and text
-//             Text(
-//               'You can either offer shelter during disasters or seek refuge if in crisis.',
-//               style: TextStyle(fontSize: 24, color: Colors.white),
-//             ),
-//           ],
-//         ),
-//       ),
-//     );
-//   }
-// }
