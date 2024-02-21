@@ -8,9 +8,7 @@ import 'fourth.dart';
 
 import 'package:firebase_auth/firebase_auth.dart';
 
-// void main() {
-//   runApp(LoginScreen());
-// }
+
 
 class LoginScreen extends StatefulWidget {
   @override
